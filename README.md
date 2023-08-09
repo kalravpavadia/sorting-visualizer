@@ -11,3 +11,5 @@ Sorting algorithms OpenGl/GLut based visualizer.
 ## Tools used:
 * C++, STL.
 * OpenGL/GLUT.
+  
+use x86 in VS
